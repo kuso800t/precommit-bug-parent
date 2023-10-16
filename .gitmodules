@@ -1,0 +1,3 @@
+[submodule "precommit-bug"]
+	path = precommit-bug
+	url = https://github.com/kuso800t/precommit-bug.git
